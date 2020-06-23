@@ -1,2 +1,1 @@
-# plugin-wordpress-telegram
-plugin-wordpress-telegram
+Плагин для отправки сообщений в телеграм о том что статья редактировалась
